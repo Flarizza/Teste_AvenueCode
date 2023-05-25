@@ -36,3 +36,4 @@ Cenário 6: Perda de tradução ao atualizar a página
 /*Esses cenários representam as funcionalidades específicas que foram afetadas pelos bugs mencionados. Eles podem
 ser usados como base para escrever testes automatizados usando ferramentas de BDD, como o Cucumber, por exemplo.
 É importante adaptar esses cenários de acordo com o contexto e as necessidades do projeto em questão.*/
+
