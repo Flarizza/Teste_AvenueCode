@@ -24,4 +24,4 @@ Cenário 4: Perda de tradução ao atualizar a página
     Quando ele atualiza a página 
     Então todas as palavras traduzidas devem ser preservadas corretamente
 
-/*Esses cenários foram coletados dos bugs encontrados durante a analise da funcionalidade.*/ 
+/*Esses cenários foram coletados dos bugs encontrados durante a analise da funcionalidade e se referem a User Story 1.*/ 
